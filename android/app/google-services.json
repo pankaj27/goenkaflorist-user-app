@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577027188904",
+    "project_id": "goenka-florist-67464",
+    "storage_bucket": "goenka-florist-67464.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577027188904:android:6a9b3ad786aecb678d3a9d",
+        "android_client_info": {
+          "package_name": "com.goenkaflorist.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKmf2uBpkYOV27Qu8t77zmfNucs8AOMDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
